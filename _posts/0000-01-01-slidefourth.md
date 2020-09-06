@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our 4th slide!"
+title: "How has it changed?"
 ---
-Reid Scott
-Use the left arrow to go back!
+More of a science now
+Becoming more expensive
