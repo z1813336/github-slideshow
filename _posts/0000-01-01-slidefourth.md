@@ -1,7 +1,13 @@
 ---
 layout: slide
-title: "How has it changed?"
+title: "Media on a new Medium"
 ---
-More of a science now
+Mobile up 666%
 
-Becoming more expensive
+Mobile Video up 1939%
+
+Smartphones up 1039%
+
+Tablets up 6481%
+
+Source:Slides/data derived from emarketer
