@@ -2,8 +2,6 @@
 layout: slide
 title: "Media on a new Medium"
 ---
-Mobile up 666%
-
 Mobile Video up 1939%
 
 Smartphones up 1039%
